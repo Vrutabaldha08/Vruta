@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Data Science
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Vruta Baldha&show_icons=true&hide_border=true)
+
 
 <p align="center">
  <a href="mailto:vrutapatel42810@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp
