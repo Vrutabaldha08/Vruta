@@ -42,8 +42,8 @@ A sophomore at  <a href="http://www.paruluniversity.ac.in" target="_blank" >Paru
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="CPP" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="HTML" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/sql/sql_48x48.png" alt="sql" width="40" height="40" /></code>&nbsp;
- 
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r_48x48.png" alt="sql" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" alt="java" width="40" height="40" /></code>&nbsp;
 </p>
 
 
