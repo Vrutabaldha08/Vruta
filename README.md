@@ -12,8 +12,7 @@ A sophomore at  <a href="http://www.paruluniversity.ac.in" target="_blank" >Paru
   <ul>
     <br>
     <li>Still pursuing my Android Development Journey, and currently working on some projects as well as spending all the spare time on Data science.</li>
-    <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
-    <li>Working on two private repositories.</li>
+    <li>Working on private repositories.</li>
     <li>🔜</li>
   </ul>
 </details>
@@ -44,6 +43,8 @@ A sophomore at  <a href="http://www.paruluniversity.ac.in" target="_blank" >Paru
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="HTML" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r_48x48.png" alt="sql" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" alt="java" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40" height="40"/></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40" height="40"/></code>
 </p>
 
 
@@ -52,9 +53,9 @@ A sophomore at  <a href="http://www.paruluniversity.ac.in" target="_blank" >Paru
 **Connect with me:**
 
 <p align="left">
-  <a href="https://www.instagram.com/vruta.baldha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://twitter.com/BaldhaVruta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.facebook.com/vruta.baldha.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+ <a href="https://www.instagram.com/vruta.baldha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+ <a href="https://twitter.com/BaldhaVruta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+ <a href="https://www.facebook.com/vruta.baldha.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
  <a href="https://github.com/Vrutabaldha08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/vruta-baldha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
  
