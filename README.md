@@ -55,8 +55,8 @@ A sophomore at  <a href="http://www.paruluniversity.ac.in" target="_blank" >Paru
   <a href="https://www.instagram.com/vruta.baldha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="https://twitter.com/BaldhaVruta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="https://www.facebook.com/vruta.baldha.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
- <a href="https://www.github.com/Vrutabaldha08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
- <a href="https://www.linkedin.com/vruta-baldha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+ <a href="https://github.com/Vrutabaldha08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/vruta-baldha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
  
 
 
