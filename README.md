@@ -4,7 +4,7 @@
 
 
 
-A sophomore at  <a href="http://www.paruluniversity.ac.in" target="_blank" >Parul University</a>, India, pursuing bachelor’s degree in Software Engineering.
+Final year student at  <a href="http://www.paruluniversity.ac.in" target="_blank" >Parul University</a>, India, pursuing bachelor’s degree in Software Engineering.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
