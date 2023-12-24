@@ -1,4 +1,4 @@
-### Hi there, I'm John Doe - DevOps Engineer 👋
+### Hey there, I'm Vruta Baldha - DevOps Engineer 👋
 
 <img align="right" src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif" width="50%" height="10%"/>
 
@@ -36,22 +36,21 @@ In this journey of DevOps, I've set personal challenges to grow further:
 #### Let's connect:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/johndoe/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/johndoe/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/johndoe/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="mailto:johndoe@example.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/email.png" alt="Email" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vruta-baldha/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.twitter.com/BaldhaVruta" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="mailto:vruta@example.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/email.png" alt="Email" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <details>
   <summary>✨ GitHub Stats</summary>
   <br>
-  <img align="left" alt="John Doe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dracula" />
+  <img align="left" alt="Vruta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vrutabaldha08&show_icons=true&theme=dracula" />
   <br><br><br><br><br><br><br><br><br><br><br><br>
 </details>
 
 <details>
   <summary>🔥 Top Languages</summary>
   <br>
-  <img align="left" alt="John Doe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&theme=dracula" />
+  <img align="left" alt="Vruta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrutabaldha08&theme=dracula" />
   <br><br><br><br><br><br><br><br><br><br><br><br>
 </details>
